@@ -57,7 +57,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## 🤓 Developer(s)
 
-[<img src="https://avatars.githubusercontent.com/u/39867606?s=400&u=2f5df3bdf07b9a9914e32d40a2f8216319559417&v=4" width="180" />]
+<img src="https://avatars.githubusercontent.com/u/39867606?s=400&u=2f5df3bdf07b9a9914e32d40a2f8216319559417&v=4" width="180" />
 #### **Ayodele Salimonu**
 <p>
 <a href="https://twitter.com/kali_code"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
