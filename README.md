@@ -57,11 +57,11 @@ samples, guidance on mobile development, and a full API reference.
 
 ## 🤓 Developer(s)
 
-[<img src="https://avatars3.githubusercontent.com/u/31275429?s=460&u=b935d608a06c1604bae1d971e69a731480a27d46&v=4" width="180" />](https://mastersam.tech)
-#### **Abada Samuel Oghenero**
+[<img src="https://avatars.githubusercontent.com/u/39867606?s=40&v=4" width="180" />]
+#### **Ayodele Salimonu**
 <p>
 <a href="https://twitter.com/kali_code"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
-<a href="https://linkedin.com/in/ayodele_salimonu/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/in/ayodele-salimonu/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 <!-- <a href="https://medium.com/@sammytech"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true" width="60"></a> -->
 <a href="https://facebook.com/ayodelesalimon"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
 </p>
