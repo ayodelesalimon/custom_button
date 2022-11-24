@@ -1,4 +1,4 @@
-# 🔐 custom button
+# 🔐 custom flutter button
 
 
 A flutter package to add custom button to your mobile application.
@@ -7,13 +7,13 @@ A flutter package to add custom button to your mobile application.
 
 ```yaml
 dependencies:
-  custom_button: "^0.0.1"
+  custom_flutter_button: "^0.0.1"
 ```
 
 ### ⚡️ Import
 
 ```dart
-import 'package:custom_button/custom_button.dart';
+import 'package:custom_flutter_button/custom_flutter_button.dart';
 ```
 
 ## 🎮 How To Use
@@ -35,7 +35,7 @@ import 'package:custom_button/custom_button.dart';
 ```
 
 
-For more info, please, refer to the [`main.dart`](https://github.com/ayodele_salimon/custom_button/blob/master/example/lib/main.dart) in the example.
+For more info, please, refer to the [`main.dart`](https://github.com/ayodele_salimon/custom_flutter_button/blob/master/example/lib/main.dart) in the example.
 
 
 ## 🐛 Bugs/Requests
@@ -68,4 +68,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## ⭐️ License
 
-#### <a href="https://github.com/ayodele_salimon/custom_button/blob/master/LICENSE">MIT LICENSE</a>
+#### <a href="https://github.com/ayodele_salimon/custom_flutter_button/blob/master/LICENSE">MIT LICENSE</a>

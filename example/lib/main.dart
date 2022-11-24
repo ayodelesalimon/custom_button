@@ -1,7 +1,7 @@
 import 'dart:developer';
 
 import 'package:flutter/material.dart';
-import 'package:custom_button/custom_button.dart';
+import 'package:custom_flutter_button/custom_flutter_button.dart';
 
 void main() {
   runApp(const MyApp());

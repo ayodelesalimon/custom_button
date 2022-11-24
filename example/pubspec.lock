@@ -50,7 +50,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.5"
-  custom_button:
+  custom_flutter_button:
     dependency: "direct dev"
     description:
       path: ".."
