@@ -1,39 +1,71 @@
-<!-- 
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# 🔐 custom button
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages). 
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages). 
--->
+A flutter package to add custom button to your mobile application.
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+## 🎖 Installing
 
-## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
-
-```dart
-const like = 'sample';
+```yaml
+dependencies:
+  custom_button: "^0.0.1"
 ```
 
-## Additional information
+### ⚡️ Import
 
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+```dart
+import 'package:custom_button/custom_button.dart';
+```
+
+## 🎮 How To Use
+
+### Dart Usage
+
+- Custom Button
+
+```dart
+ CustomButton(
+            onTap: () {
+              _incrementCounter();
+              log("increment by +$_counter");
+            },
+            enable: _counter != 0,
+            color: Colors.red,
+            text: "Hello world",
+          )
+```
+
+
+For more info, please, refer to the [`main.dart`](https://github.com/ayodele_salimon/custom_button/blob/master/example/lib/main.dart) in the example.
+
+
+## 🐛 Bugs/Requests
+
+If you encounter any problems feel free to open an issue. If you feel the library is
+missing a feature, please raise a ticket on Github and I'll look into it.
+Pull request are also welcome.
+
+### ❗️ Note
+
+This project is a starting point for a Flutter
+[plug-in package](https://flutter.dev/developing-packages/),
+a specialized package that includes platform-specific implementation code for
+Android and/or iOS.
+
+For help getting started with Flutter, view our 
+[online documentation](https://flutter.dev/docs), which offers tutorials, 
+samples, guidance on mobile development, and a full API reference.
+
+## 🤓 Developer(s)
+
+[<img src="https://avatars3.githubusercontent.com/u/31275429?s=460&u=b935d608a06c1604bae1d971e69a731480a27d46&v=4" width="180" />](https://mastersam.tech)
+#### **Abada Samuel Oghenero**
+<p>
+<a href="https://twitter.com/kali_code"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+<a href="https://linkedin.com/in/ayodele_salimonu/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<!-- <a href="https://medium.com/@sammytech"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true" width="60"></a> -->
+<a href="https://facebook.com/ayodelesalimon"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
+</p>
+
+## ⭐️ License
+
+#### <a href="https://github.com/ayodele_salimon/custom_button/blob/master/LICENSE">MIT LICENSE</a>

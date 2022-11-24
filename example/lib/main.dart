@@ -1,3 +1,5 @@
+import 'dart:developer';
+
 import 'package:flutter/material.dart';
 import 'package:custom_button/custom_button.dart';
 
@@ -100,12 +102,14 @@ class _MyHomePageState extends State<MyHomePage> {
             '$_counter',
             style: Theme.of(context).textTheme.headline4,
           ),
-
           CustomButton(
+            onTap: () {
+              _incrementCounter();
+              log("increment by +$_counter");
+            },
             enable: _counter != 0,
             color: Colors.red,
             text: "Hello world",
-            textColor: Colors.pink,
           )
         ],
       ),
